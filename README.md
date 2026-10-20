@@ -22,7 +22,7 @@ pip install PySide6
 
 Clone the Repository & Navigate:
 
-git clone https://github.com/YOUR_USERNAME/Liquid-Glass-Dock-QML.git
+git clone [https://github.com/YOUR_USERNAME/Liquid-Glass-Dock-QML.git](https://github.com/Ss168638/Liquid-Glass-Dock-QML.git)
 cd Liquid-Glass-Dock-QML
 
 
