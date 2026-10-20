@@ -78,7 +78,8 @@ Item {
         property point pointer: root.pointer
         property vector4d tint: Qt.vector4d(root.tint.r, root.tint.g, root.tint.b, root.tint.a)
 
-        fragmentShader: Qt.resolvedUrl("../shaders/liquidglass.frag.qsb")
+        // fragmentShader: Qt.resolvedUrl("../shaders/liquidglass.frag.qsb") //Uncomment when using CMAKE
+        fragmentShader: Qt.resolvedUrl("shaders/liquidglass.frag.qsb")  //Uncomment when using Python
     }
 
     Item {
