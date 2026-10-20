@@ -72,3 +72,12 @@ CMakeLists.txt.user*
 *.dll
 *.exe
 
+# Environment files
+# -----------------
+*.venv
+
+build-*
+__pycache__/
+.vscode/
+.idea/
+*.user
