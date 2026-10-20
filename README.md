@@ -1,4 +1,5 @@
-Liquid-Glass-Dock-QML
+# <center> Liquid-Glass-Dock-QML </center>
+<center> <img width="2182" height="1044" alt="LiquidGlassDock" src="https://github.com/user-attachments/assets/0c8ce7d7-ce24-48f7-8127-f4858d90f473" /> </center>
 
 Liquid-Glass-Dock-QML is a high-performance, GPU-accelerated desktop dock that brings macOS-style liquid glass vibrancy, real-time background refraction, and smooth icon magnification physics to Windows and Linux using Qt Quick (QML) with dual C++ (Qt 6) and Python (PySide6) backend support.
 
