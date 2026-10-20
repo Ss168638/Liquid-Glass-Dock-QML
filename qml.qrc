@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Dock.qml</file>
+        <file>DockIcon.qml</file>
+        <file>GlassSurface.qml</file>
+        <file>Wallpaper.qml</file>
+        <file>shaders/liquidglass.frag</file>
+        <file>shaders/liquidglass.frag.qsb</file>
+    </qresource>
+</RCC>
